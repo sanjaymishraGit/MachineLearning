@@ -1,2 +1,2 @@
 # MachineLearning
-This is for Machine learning projects
+This repository is for Machine learning projects
